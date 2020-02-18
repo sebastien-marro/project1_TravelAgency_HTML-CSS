@@ -1,4 +1,4 @@
-A light static website using only HTML and CSS *(This website was developped during my free-time to learn HTML and CSS)*
+TRAVEL AGENCY : A light static website using only HTML and CSS *(This website was developped during my free-time to learn HTML and CSS)*
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
