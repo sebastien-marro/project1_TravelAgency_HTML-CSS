@@ -1,4 +1,4 @@
-TRAVEL AGENCY : A light static website using only HTML and CSS
+**TRAVEL AGENCY : A light static website using only HTML and CSS**
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
